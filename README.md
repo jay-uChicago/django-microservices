@@ -73,7 +73,7 @@ docker-compose version 1.26.2, build eefe0d31
 - Clone the repo to your local machine:
 
 ```
-$ git clone https://github.com/rmiyazaki6499/django-app.git
+$ git clone https://github.com/jay-uChicago/django-microservices.git
 ```
 
 - Go into the project directory to build and run the container with:
@@ -115,7 +115,7 @@ If you either did not want to use Docker or was curious to build the `django-app
 - On your terminal and clone the repository with Git:
 
 ```
-$ git clone https://github.com/rmiyazaki6499/django-app.git
+$ git clone https://github.com/jay-uChicago/django-microservices.git
 ```
 
 - Next, go into the project directory and make sure you create a virtual environment for your project by either using venv or pipenv:
@@ -162,3 +162,7 @@ It should look something like this:
 Created by:
 
 - [Ryuichi Miyazaki](https://github.com/rmiyazaki6499)
+
+Modified by :
+
+= [Jay Ong]
